@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Clothing store</string>
+    <string name="catalog">Каталог</string>
+    <string name="skidki">Акции</string>
+    <string name="opisanie">О нас</string>
+    <string name="hello">Добро пожаловать в Zvs.shop</string>
+    <string name="clothe_ralph">Свитшот Ralph Lauren</string>
+    <string name="clothe_tnf">Свитшот The North Face</string>
+    <string name="hoodi_rpndp">Худи RIPNDIP</string>
+    <string name="hoodi_rpndp_info">Худи RIPNDIP лучший худак</string>
+    <string name="hoodi_nike_seroe">Худи Nike</string>
+    <string name="hoodi_nike_seroe_info">Худи Nike серого цвета</string>
+    <string name="hoodi_nike_zelenoe">Худи Nike</string>
+    <string name="hoodi_nike_zelenoe_info">Худи Nike зеленого цвета</string>
+    <string name="hoodi_sprm_belaya">Худи Supreme</string>
+    <string name="hoodi_sprm_belaya_info">Худи Supreme оверпрайз белого цвета</string>
+    <string name="hoodi_sprm_seroe">Худи Supreme</string>
+    <string name="hoodi_sprm_seroe_info">Худи Supreme оверпра1з серого цвета</string>
+    <string name="futb_tnf_belaya">Футболка The North Face</string>
+    <string name="futb_tnf_belaya_info">Футболка The North Face белого цвета</string>
+    <string name="futb_tnf_seraya">Футболка The North Face</string>
+    <string name="futb_tnf_seraya_info">Футболка The North Face серого цвета</string>
+    <string name="futb_nike">Футболка Nike</string>
+    <string name="Clothe_info">г. Москва, м. Селигерская, Дмитровская шосссе 91с1 \n
+        Занимаемся продажами на протяжении 10 лет
+        \n Контактные данные:
+        \n 8(800)555-35-35 vladkaras1998@mail.ru</string>
+    <string name="futb_nike_info">Футболка Nike </string>
+    <string name="clothe_ralph_info">Свитшот Ralph Lauren.</string>
+    <string name="clothe_tnf_info">Свитшот The North Face </string>
+    <string name="shoes_adidas_chernie">Adidas Yeezy Boost 500</string>
+    <string name="shoes_adidas_chernie_info">Adidas Yeezy Boost 500 </string>
+    <string name="shoes_adidas_serie">Adidas Yeezy Boost 500</string>
+    <string name="shoes_adidas_serie_info">Adidas Yeezy Boost 500, разработчик советует</string>
+    <string name="shoes_nike_chernie">Nike Air Max 720</string>
+    <string name="shoes_nike_chernie_info">Nike Air Max 720</string>
+    <string name="shoes_nike_rozovie">Nike Air Max 720</string>
+    <string name="shoes_nike_rozovie_info">Nike Air Max 720</string>
+    <string name="hoodi">Худи</string>
+    <string name="price">Цена: %s р. </string>
+    <integer name="price_adidas_chernie">15000</integer>
+    <integer name="price_nike_rozovie">9000</integer>
+    <integer name="price_ralphLauren">8000</integer>
+    <integer name="price_kofta_tnf">5000</integer>
+    <integer name="price_hoodi_sprm_beloe">20000</integer>
+    <integer name="price_hoodi_rpndp">8000</integer>
+    <integer name="price_hoodi_nike">4000</integer>
+    <integer name="price_futb_nike">4000</integer>
+    <integer name="price_futb_tnf">2000</integer>
+    <string name="ttt">%s</string>
+    <string name="shoes">Кроссовки</string>
+    <string name="kofta">Свитшот</string>
+    <string name="tshirts">Футболка</string>
+    <string name="ris1">картинка1</string>
+    <string name="ris2">картинка2</string>
+    <string name="ris3">картинка3</string>
+    <string name="vibor_hudi">Худи</string>
+    <string name="vibor_krosi">Кроссовки</string>
+    <string name="vibor_swit">Свитшоты</string>
+    <string name="vibor_futb">Футболки</string>
+    <string-array name="Odejda">
+        <item>Все</item>
+        <item>Худи</item>
+        <item>Кроссовки</item>
+        <item>Свитшоты</item>
+        <item>Футболки</item>
+    </string-array>
+</resources>

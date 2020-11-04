@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".catal">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="hudi_catal">
+
+            <ImageView
+                android:id="@+id/catalogHudiPhoto"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                app:srcCompat="@drawable/sticker_png_hoodie_computer_icons_clothing_others_logo_hoodie_sign_silhouette_black" />
+
+            <TextView
+                android:id="@+id/cataloghudi"
+                android:layout_width="326dp"
+                android:layout_height="match_parent"
+                android:text="@string/vibor_hudi"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textStyle="bold"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="krosi_catal">
+
+            <ImageView
+                android:id="@+id/catalogKrosiPhoto"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/kros"
+                />
+
+            <TextView
+                android:id="@+id/catalogKrosi"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/vibor_krosi"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textStyle="bold"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="futb_catal">
+
+            <ImageView
+                android:id="@+id/catalogFutbPhoto"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                app:srcCompat="@drawable/futb"
+               />
+
+            <TextView
+                android:id="@+id/catalogFutb"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/vibor_futb"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textStyle="bold"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="swit_catal">
+
+            <ImageView
+                android:id="@+id/CatalogSwitPhoto"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                app:srcCompat="@drawable/swit"
+                />
+
+            <TextView
+                android:id="@+id/catalogSwit"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/vibor_swit"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
